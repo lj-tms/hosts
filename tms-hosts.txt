@@ -1,3 +1,27 @@
 # TMS Host Blacklist by LJ
-# Last Updated: 2017-03-22
+# Last Updated: 2017-03-24
+
+# https://blog.malwarebytes.com/cybercrime/2017/03/advanis-tech-support-screenlocker/
+installreports.com
+latestnewsalert.us
+pruet.us
+homemaderecipes.us
+biou.us
+mijay.us
+unlimitedgames.us
+topchickenrecipes.us
+searchweathernow.us
+newsnowonweb.us
+healtyrecipesbyjones.us
+localnewsdaily.us
+topnewsnow.us
+mathgamesfree.us
+loginprotector.us
+todaynewsup.us
+topnewsguide.us
+womenshoppingstore.us
+onlineloginaccounts.us
+onlineloginaccount.us
+downloadsnow.us
+brglobalservices.com
 
