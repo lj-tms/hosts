@@ -1,4 +1,4 @@
-# Blacklist - Last Updated: 2017-03-24
+# Blacklist - Last Updated: 2017-03-30
 
 installreports.com
 latestnewsalert.us
