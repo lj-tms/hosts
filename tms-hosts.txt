@@ -1,5 +1,3 @@
-# Blacklist - Last Updated: 2017-03-30
-
 installreports.com
 latestnewsalert.us
 pruet.us
